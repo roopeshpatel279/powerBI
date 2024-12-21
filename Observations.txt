@@ -1,0 +1,30 @@
+
+
+GENERAL OVERVIEW,
+
+According the dataset  USA , India , Brazil, Russia , United kingdom are the top 5 most affected/suffered nations .
+But the dataset is missing the information of China.
+And according to the dataset the top 5 countries are either developed countries or having high population density .
+And China is both Developed and having highest population , so they should be in the top 5 list.
+
+And according to my observation pandemic affected the populous and non-vegetarian countries most.
+
+Deaths in AMRO and EURO WHO region is more than half of total deaths in the world.
+
+As of Now, the global situation regarding pandemics primarily revolves around the long-term impact of the COVID-19 pandemic and the efforts to manage and prevent future outbreaks of infectious diseases.
+
+1. COVID-19 Pandemic:
+Timeline: The COVID-19 pandemic, caused by the SARS-CoV-2 virus, began in December 2019 and led to worldwide disruption, with widespread infections and high mortality.
+Current Status: The situation has significantly improved, with the majority of the global population having received vaccinations and many countries lifting strict restrictions. COVID-19 is now largely classified as an endemic virus, meaning it will continue to circulate at lower levels with occasional surges in cases, similar to seasonal flu.
+
+2. Preparedness for Future Pandemics:
+Global Response and Infrastructure: The COVID-19 experience has led to significant changes in global health systems, with improvements in disease surveillance, rapid-response capabilities, and vaccine development. The World Health Organization (WHO) and other public health bodies continue to prioritize pandemic preparedness.
+Research: Advances in vaccines and antiviral medications are being researched to combat not only COVID-19 but also other diseases that could pose future threats.
+
+3. Impact on Society:
+Economic Recovery: Many countries are recovering economically from the pandemic’s impact, but supply chain disruptions, inflation, and job losses continue to affect certain sectors.
+Mental Health: The long-lasting mental health impact of the pandemic, including isolation, anxiety, and post-traumatic stress, remains a key issue.
+Social Changes: Remote work, digital transformation, and changes in education have reshaped global work and social life.
+
+Conclusion:
+While the immediate global emergency phase of the COVID-19 pandemic has passed, the lessons learned are shaping ongoing efforts to prevent and respond to future infectious disease outbreaks. Surveillance, vaccination, and healthcare system strengthening remain critical to managing future threats.
